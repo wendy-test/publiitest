@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wendy-test.github.io/publiitest/sitemap.xml
